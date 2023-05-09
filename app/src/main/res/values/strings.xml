@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="limoeiro">Toque no limoeiro para selecionar um limão</string>
+    <string name="limao">Continue batendo no limão para espremê-lo</string>
+    <string name="limonada">Toque na limonada para beber</string>
+    <string name="copo_vazio">Toque no copo vazio para começar de novo</string>
+</resources>
